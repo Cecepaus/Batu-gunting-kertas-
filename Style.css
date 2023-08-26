@@ -1,0 +1,75 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    background: #b3ebfa87;
+}
+  .display{
+    margin: 50px auto;
+    font-size: 50px;
+    text-align: center;
+  }
+  .akuo{
+    font-weight:900; 
+    border: 2px solid #613dd488;
+    width: 70px;
+    padding: 5px;
+    border-radius: 5px;
+    margin:10px auto;
+  }
+  .compto{
+    border: 2px solid #613dd488;
+    width: 70px;
+    padding: 5px;
+    border-radius: 5px;
+    margin:10px auto;
+  }
+  .vs{
+    border: 2px solid #613dd488;
+    font-weight:900; 
+    width: 70px;
+    padding: 5px;
+    color: #2e1212;
+    background: #2c63e289;
+    border-radius: 5px;
+    margin:10px auto;
+  }
+ .form{
+    border: 5px solid #ff00e051;
+    margin: 10px auto;
+    width: 200px;
+    height: 100px;
+    text-align: center;;
+    font-weight: 800;
+    font-size: 20px;
+  }
+  #output{
+    font-weight: 800;
+    font-size: 35;
+  }
+  button{
+    margin-top: 5px;
+    padding: 5px;
+    background: #0fa75a;
+    font-size: 15px;
+    font-weight: 800; 
+    border-radius: 8px;
+    border: 3px solid black;
+  }
+  button:hover{
+    padding: 5px;
+    background: #0f82a7;
+    font-size: 15px;
+    font-weight: 800; 
+    border-radius: 5px;
+    border: 3px solid #fff;
+  }
+  select{
+    border-radius: 2px;
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 20px;
+  }
